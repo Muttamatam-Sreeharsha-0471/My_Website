@@ -15,7 +15,7 @@ const professionalExperience = [
   {
     title: "Machine Learning Engineer",
     company: "Team Infits",
-    period: "2024(May) - 2024(October)",
+    period: "2024(May) - 2024(November)",
     description: "Led development of ML models for predictive analytics and computer vision applications.",
     type: "work"
   },
